@@ -34,5 +34,5 @@ Here are the links:
 
 GitHub Repo URL: https://github.com/Dhabi966/Module-2-Challenge.git
 
-GitHub Pages Link: 
+GitHub Pages Link: https://dhabi966.github.io/Module-2-Challenge/
 
