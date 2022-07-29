@@ -27,8 +27,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 Challenges: 
 ```
 Unable to figure out the hover feature when cursor is over images
-How to add boxes within a box that housed a background image
+Unable to add boxes within a box that housed a background image
 How to get my profile image to not be cut off by other page elements
+Connecting the correct style.css and reset.css to my index.hmtl file on GitHub
 
 Here are the links:
 
@@ -36,9 +37,10 @@ GitHub Repo URL: https://github.com/Dhabi966/Module-2-Challenge.git
 
 GitHub Pages Link: https://dhabi966.github.io/Module-2-Challenge/
 
-Added how the page renders/deploys on my monitor below:
+Added screenshot and .mp4 file to illustrate how the page renders/deploys on my monitor
 
-https://user-images.githubusercontent.com/108851005/181833793-8a934e27-395c-4ea6-a9a7-34815523e8f8.mp4
+![Module-2-Challenge Monitor Rendering Screenshot](https://user-images.githubusercontent.com/108851005/181834878-b8f6e468-f375-48d4-ab67-96b4eae7ac8c.jpg)
+
 
 
 
