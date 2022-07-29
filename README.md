@@ -29,6 +29,7 @@ Challenges:
 Unable to figure out the hover feature when cursor is over images
 Unable to add boxes within a box that housed a background image
 How to get my profile image to not be cut off by other page elements
+Getting all elements to resize when browser window is increased or decreased
 Connecting the correct style.css and reset.css to my index.hmtl file on GitHub
 
 Here are the links:
