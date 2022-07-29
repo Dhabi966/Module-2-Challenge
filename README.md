@@ -36,3 +36,9 @@ GitHub Repo URL: https://github.com/Dhabi966/Module-2-Challenge.git
 
 GitHub Pages Link: https://dhabi966.github.io/Module-2-Challenge/
 
+Added how the page renders/deploys on my monitor below:
+
+https://user-images.githubusercontent.com/108851005/181833793-8a934e27-395c-4ea6-a9a7-34815523e8f8.mp4
+
+
+
