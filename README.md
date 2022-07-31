@@ -40,7 +40,7 @@ GitHub Pages Link: https://dhabi966.github.io/Module-2-Challenge/
 
 Added screenshot and .mp4 file to illustrate how the page renders/deploys on my monitor
 
-![Module-2-Challenge Monitor Rendering Screenshot](https://user-images.githubusercontent.com/108851005/181834878-b8f6e468-f375-48d4-ab67-96b4eae7ac8c.jpg)
+
 
 
 
